@@ -2,7 +2,7 @@ name: Update Snake Animation
 
 on:
   schedule:
-    - cron: "* */24 * * *"
+    - cron: "* */12 * * *"
   workflow_dispatch:
 
 jobs:

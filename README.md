@@ -46,9 +46,8 @@
 </code>
 
 
-## Contributions in the last year
+##
 
-<hr/>
-
-![Snake animation](https://github.com/huogerac/huogerac/blob/output/github-contribution-grid-snake.svg)
-
+<div>
+  ![Snake animation](https://github.com/huogerac/huogerac/blob/output/github-contribution-grid-snake.svg)
+</div>
