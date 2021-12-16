@@ -8,9 +8,11 @@
 
 ##
 
-<div>
-  <a href="www.linkedin.com/in/getulio-castro-jr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=huogerac&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div align="center">
+  <a href="https://github.com/huogerac">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=huogerac&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huogerac&hide=Jupyter%20Notebook,Java,CSS,Jinja,Shell,Makefile,Mako&langs_count=5&layout=compact&theme=dracula"/>
+  </a>
 </div>
 
 ----
@@ -52,3 +54,13 @@
 
 ![Snake animation](https://github.com/huogerac/huogerac/blob/output/github-contribution-grid-snake.svg)
 
+
+## Recommended Repos
+
+### Quick install things (local/server)
+- [https://github.com/huogerac/devops-tools](https://github.com/huogerac/devops-tools)
+- [https://github.com/huogerac/dev-tools](https://github.com/huogerac/dev-tools)
+
+### Quick bootstrap projects (templates)
+- [https://github.com/huogerac/crud-vuetify-structured-template](https://github.com/huogerac/crud-vuetify-structured-template)
+- [https://github.com/huogerac/cookiecutter-djangofloppyforms](https://github.com/huogerac/cookiecutter-djangofloppyforms)
