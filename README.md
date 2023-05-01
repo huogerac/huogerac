@@ -1,10 +1,16 @@
-### Hi there 👋, I'm Roger Camargo
+### Hi there 👋, Roger here
 
+[![Gmail Badge](https://img.shields.io/badge/-huogerac@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:huogerac@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-Roger%20Camargo-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rogercamargo/ "Connect on LinkedIn")
+[![Twitter Badge](https://img.shields.io/badge/-@huogerac-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=huogerac "Follow on Twitter")
 
-- 🔭 I’m currently working on as consultant ...
-- 🌱 I’m currently learning containers, machine learning...
-- 👯 I’m looking to collaborate on GEO projects
-- ✏  I'm writer on https://huogerac.hashnode.dev
+I'm a self-taught passionate ❤️ developer and a problem solver.
+
+- 🔭 I’m currently working on as consultant/freelancer and Instructor at [Dev.Pro](https://pythonpro.com.br/)
+- 🌱 I’m currently learning containers, machine learning and Mobile apps
+- 📝 I'm content creator at https://huogerac.hashnode.dev
+- 👉 I’m interested in computer vision, machine learning and data spatial projects
+- 💬 Ask me about anything [here](https://github.com/huogerac/huogerac/discussions)
 
 ##
 
@@ -15,38 +21,22 @@
   </a>
 </div>
 
-----
+---
 
-### Languages and Tools
+### Main Languages & Tools
 
-<code>
-    <img height="20" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-</code>
-<code>
-    <img height="20" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-</code>
-<code>
-    <img height="20" alt="VueJS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-</code>
-<code>
-    <img height="20" alt="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-</code>
-<code>
-    <img height="20" alt="Postgres" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
-</code>
-<code>
-    <img height="20" alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-</code>
-<code>
-    <img height="20" alt="Bash" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-</code>
-<code>
-    <img height="20" alt="Docker" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-</code>
-<code>
-    <img height="20" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-</code>
+- 📫 Back-end： ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)![Django](https://img.shields.io/badge/-Django-yellow?style=flat-circle&logo=Django)![Flask](https://img.shields.io/badge/-Flask-yellow?style=flat-circle&logo=Flask)
 
+- 💻 Front-end： ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript)![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)![VueJS](https://img.shields.io/badge/-VueJS-blue?style=flat-circle&logo=Vuetify)![Vuetify](https://img.shields.io/badge/-Vuetify-blue?style=flat-circle&logo=Vuetify)
+
+- 🛠️ Tools：![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode)![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git)![Shell](https://img.shields.io/badge/-Shell-red?style=flat-circle&logo=shell)![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-circle&logo=Linux)![GitLab](https://img.shields.io/badge/-GitLab-orange?style=flat-circle&logo=GitLab)![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub)![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-circle&logo=markdown)![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker)![Vitest](https://img.shields.io/badge/-Vitest-blue?style=flat-circle&logo=Vitest)![PyTest](https://img.shields.io/badge/-PyTest-blue?style=flat-circle&logo=PyTest)
+  ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+  ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-000?&logo=Amazon-DigitalOcean&logoColor=F90)
+
+- 🎲 Database：![Postgres](https://img.shields.io/badge/-Postgres-blue?style=flat-circle&logo=Postgres)![Redis](https://img.shields.io/badge/-Redis-green?style=flat-circle&logo=Redis)
+
+- 🌱 learning：![Mobile](https://img.shields.io/badge/-android-green?style=flat-circle&logo=android)
+  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 
 ## Contributions in the last year
 
@@ -54,13 +44,15 @@
 
 ![Snake animation](https://github.com/huogerac/huogerac/blob/output/github-contribution-grid-snake.svg)
 
+## 🎯 Check my repos out that might be helpful for you
 
-## Recommended Repos
-
-### Quick install things (local/server)
-- [https://github.com/huogerac/devops-tools](https://github.com/huogerac/devops-tools)
-- [https://github.com/huogerac/dev-tools](https://github.com/huogerac/dev-tools)
-
-### Quick bootstrap projects (templates)
-- [https://github.com/huogerac/crud-vuetify-structured-template](https://github.com/huogerac/crud-vuetify-structured-template)
-- [https://github.com/huogerac/cookiecutter-djangofloppyforms](https://github.com/huogerac/cookiecutter-djangofloppyforms)
+- 🐈 [Djàvue 3](https://github.com/evolutio/djavue3) - Project template Django + VueJS
+- ⚡ [Vue 3 + Vite](https://github.com/huogerac/template-vue3-vite-vuetify3) - VueJS Project Struture
+- 🛠️ [Ansible + Scripts](https://github.com/huogerac/devops-tools) - Scripts for easy deploy
+- 🛠️ [Scripts + Tools](https://github.com/huogerac/dev-tools) - Scripts for a quickly PC bootstrap after formatting
+- ⚡ [Vue 2 Template](https://github.com/huogerac/crud-vuetify-structured-template) - Vue 2 project structure
+- 🦄 [Django + Floppyforms](https://github.com/huogerac/cookiecutter-djangofloppyforms) - A great way of separeting frontend & backend (no css inside forms.py)
+- 🧪 [Flask + OpenAPI](https://github.com/huogerac/cookiecutter-flask-openapi) - A well organized flask structure
+- 😎 [Awesome web frontend](https://github.com/huogerac/awesome-web-frontend) - Top frontend links
+- 🌱 [Flexbox Made Easy](https://github.com/huogerac/css-flexbox-explicado) - Learn the 20% that solves 80% of your problems
+- 🌱 [CSS Box Model](https://github.com/huogerac/css-box-model-explicado) - Learn the CSS box-model
