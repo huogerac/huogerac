@@ -25,7 +25,7 @@ I'm a self-taught passionate ❤️ developer and a problem solver.
 
 ### Main Languages & Tools
 
-- 📫 Back-end： ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)![Django](https://img.shields.io/badge/-Django-yellow?style=flat-circle&logo=Django)![Flask](https://img.shields.io/badge/-Flask-yellow?style=flat-circle&logo=Flask)
+- 🪨 Back-end： ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)![Django](https://img.shields.io/badge/-Django-yellow?style=flat-circle&logo=Django)![Flask](https://img.shields.io/badge/-Flask-yellow?style=flat-circle&logo=Flask)
 
 - 💻 Front-end： ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript)![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)![VueJS](https://img.shields.io/badge/-VueJS-blue?style=flat-circle&logo=Vuetify)![Vuetify](https://img.shields.io/badge/-Vuetify-blue?style=flat-circle&logo=Vuetify)
 
@@ -62,6 +62,6 @@ I'm a self-taught passionate ❤️ developer and a problem solver.
 - 💬 Did you find something interesing? Drop me a message
 - 🐞 Got stuck? Create an issue
 - ⭐ Giving a star for something you did like help a lot
-- ✨ If some repository did help, tell your boss to [Sponsor](https://github.com/sponsors/huogerac)
+- ✨ If some repository did help, tell your boss to [Sponsor](https://github.com/sponsors/huogerac) it
 
 You Rock 🤘
