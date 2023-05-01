@@ -46,7 +46,7 @@ I'm a self-taught passionate ❤️ developer and a problem solver.
 
 ## 🎯 Check my repos out that might be helpful for you
 
-- 🐈 [Djàvue 3](https://github.com/evolutio/djavue3) - Project template Django + VueJS
+- 🐈 [Djàvue 3](https://github.com/evolutio/djavue3) - Cutting edge project template using Django + VueJS
 - ⚡ [Vue 3 + Vite](https://github.com/huogerac/template-vue3-vite-vuetify3) - VueJS Project Struture
 - 🛠️ [Ansible + Scripts](https://github.com/huogerac/devops-tools) - Scripts for easy deploy
 - 🛠️ [Scripts + Tools](https://github.com/huogerac/dev-tools) - Scripts for a quickly PC bootstrap after formatting
@@ -56,3 +56,12 @@ I'm a self-taught passionate ❤️ developer and a problem solver.
 - 😎 [Awesome web frontend](https://github.com/huogerac/awesome-web-frontend) - Top frontend links
 - 🌱 [Flexbox Made Easy](https://github.com/huogerac/css-flexbox-explicado) - Learn the 20% that solves 80% of your problems
 - 🌱 [CSS Box Model](https://github.com/huogerac/css-box-model-explicado) - Learn the CSS box-model
+
+## 🤔 Do you want to help?
+
+- 💬 Did you find something interesing? Drop me a message
+- 🐞 Got stuck? Create an issue
+- ⭐ Giving a star for something you did like help a lot
+- ✨ If some repository did help, tell your boss to [Sponsor](https://github.com/sponsors/huogerac)
+
+You Rock 🤘
