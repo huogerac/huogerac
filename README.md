@@ -35,8 +35,8 @@ I'm a self-taught passionate ❤️ developer and a problem solver.
 
 - 🎲 Database：![Postgres](https://img.shields.io/badge/-Postgres-blue?style=flat-circle&logo=Postgres)![Redis](https://img.shields.io/badge/-Redis-green?style=flat-circle&logo=Redis)
 
-- 🌱 learning：![Mobile](https://img.shields.io/badge/-android-green?style=flat-circle&logo=android)
-  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+- 🌱 learning：![Mobile](https://img.shields.io/badge/-mobile-green?style=flat-circle&logo=android)
+  ![Spatial](https://img.shields.io/badge/-SpatialData-000?&logo=Kubernetes)
 
 ## Contributions in the last year
 
@@ -46,7 +46,7 @@ I'm a self-taught passionate ❤️ developer and a problem solver.
 
 ## 🎯 Check my repos out that might be helpful for you
 
-- 🐈 [Djàvue 3](https://github.com/evolutio/djavue3) - Cutting edge project template using Django + VueJS
+- 🐈 [Djàvue 3](https://github.com/evolutio/djavue3) - Cutting edge project template using Django + VueJS 🚧
 - ⚡ [Vue 3 + Vite](https://github.com/huogerac/template-vue3-vite-vuetify3) - VueJS Project Struture
 - 🛠️ [Ansible + Scripts](https://github.com/huogerac/devops-tools) - Scripts for easy deploy
 - 🛠️ [Scripts + Tools](https://github.com/huogerac/dev-tools) - Scripts for a quickly PC bootstrap after formatting
@@ -56,6 +56,7 @@ I'm a self-taught passionate ❤️ developer and a problem solver.
 - 😎 [Awesome web frontend](https://github.com/huogerac/awesome-web-frontend) - Top frontend links
 - 🌱 [Flexbox Made Easy](https://github.com/huogerac/css-flexbox-explicado) - Learn the 20% that solves 80% of your problems
 - 🌱 [CSS Box Model](https://github.com/huogerac/css-box-model-explicado) - Learn the CSS box-model
+- 🌱 [The definitive and complete begginers guide to learn Web development](https://github.com/devpro-br/guia-definitivo-do-zero-a-primeira-vaga) - A complete ROADMAP for begginers 🚧
 
 ## 🤔 Do you want to help?
 
