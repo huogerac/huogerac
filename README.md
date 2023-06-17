@@ -25,18 +25,51 @@ I'm a self-taught passionate ❤️ developer and a problem solver.
 
 ### Main Languages & Tools
 
-- 🪨 Back-end： ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)![Django](https://img.shields.io/badge/-Django-yellow?style=flat-circle&logo=Django)![Flask](https://img.shields.io/badge/-Flask-yellow?style=flat-circle&logo=Flask)
+- 🪨 Back-end： 
+ ![Python](https://img.shields.io/badge/-Python-yellow?style=flat-circle&logo=Python)
+ ![Django](https://img.shields.io/badge/-Django-yellow?style=flat-circle&logo=Django)
+ ![Flask](https://img.shields.io/badge/-Flask-yellow?style=flat-circle&logo=Flask)
+ ![API-REST](https://img.shields.io/badge/API-REST-ff1709?style=flat-circle&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+ ![celery](https://img.shields.io/badge/celery-b0d761?style=flat-circle&logo=celery)
+  
+- 💻 Front-end： 
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript)
+ ![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5) 
+ ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)
+ ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-circle&logo=bootstrap&logoColor=white)
+ ![VueJS](https://img.shields.io/badge/-VueJS-blue?style=flat-circle&logo=Vuetify)
+ ![Vuetify](https://img.shields.io/badge/-Vuetify-blue?style=flat-circle&logo=Vuetify)
 
-- 💻 Front-end： ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript)![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)![VueJS](https://img.shields.io/badge/-VueJS-blue?style=flat-circle&logo=Vuetify)![Vuetify](https://img.shields.io/badge/-Vuetify-blue?style=flat-circle&logo=Vuetify)
+- 🛠️ Tools：
+  ![VS Code](https://img.shields.io/badge/vscode-gray.svg?logo=visualstudiocode)
+  ![Git](https://img.shields.io/badge/Git-yellow?style=flat-circle&logo=git)
+  ![Shell](https://img.shields.io/badge/Shell-red?style=flat-circle&logo=shell)
+  ![Linux](https://img.shields.io/badge/Linux-gray?style=flat-circle&logo=Linux)
+  ![GitLab](https://img.shields.io/badge/GitLab-orange?style=flat-circle&logo=GitLab)
+  ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-circle&logo=GitHub)
+  ![Markdown](https://img.shields.io/badge/Markdown-black?style=flat-circle&logo=markdown)
+  ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker)
+  ![Vitest](https://img.shields.io/badge/-Vitest-blue?style=flat-circle&logo=Vitest)
+  ![PyTest](https://img.shields.io/badge/-PyTest-blue?style=flat-circle&logo=PyTest)
 
-- 🛠️ Tools：![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode)![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=git)![Shell](https://img.shields.io/badge/-Shell-red?style=flat-circle&logo=shell)![Linux](https://img.shields.io/badge/-Linux-gray?style=flat-circle&logo=Linux)![GitLab](https://img.shields.io/badge/-GitLab-orange?style=flat-circle&logo=GitLab)![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-circle&logo=GitHub)![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-circle&logo=markdown)![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker)![Vitest](https://img.shields.io/badge/-Vitest-blue?style=flat-circle&logo=Vitest)![PyTest](https://img.shields.io/badge/-PyTest-blue?style=flat-circle&logo=PyTest)
+- ☁️ Cloud：
   ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-  ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-000?&logo=Amazon-DigitalOcean&logoColor=F90)
+  ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-blue?&logo=DigitalOcean&logoColor=F90)
+  ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-circle&logo=heroku&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/Vercel-green?style=flat-circle&logo=Vercel&logoColor=white)
+  ![Fly.io](https://img.shields.io/badge/Fly.io-7c3aed?style=flat-circle&logo=Flyio&logoColor=white)
+  
+- 🎲 Database：
+ ![Postgres](https://img.shields.io/badge/PostgreSQL-c5c5c5?style=flat-circle&logo=PostgreSQL)
+ ![Redis](https://img.shields.io/badge/-Redis-green?style=flat-circle&logo=Redis)
 
-- 🎲 Database：![Postgres](https://img.shields.io/badge/-Postgres-blue?style=flat-circle&logo=Postgres)![Redis](https://img.shields.io/badge/-Redis-green?style=flat-circle&logo=Redis)
+- 🚀 Others:
+  ![GA](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-circle&logo=github-actions&logoColor=white)
+  ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-circle&logo=nginx&logoColor=white)
 
-- 🌱 learning：![Mobile](https://img.shields.io/badge/-mobile-green?style=flat-circle&logo=android)
-  ![Spatial](https://img.shields.io/badge/-SpatialData-000?&logo=Kubernetes)
+- 🌱 learning：
+ ![Mobile](https://img.shields.io/badge/-mobile-green?style=flat-circle&logo=android)
+ ![Spatial](https://img.shields.io/badge/-SpatialData-000?&logo=Kubernetes)
 
 ## Contributions in the last year
 
