@@ -9,6 +9,7 @@ I'm a self-taught passionate ❤️ developer and a problem solver.
 - 🔭 I’m currently working on as consultant/freelancer and Instructor at [Dev.Pro](https://pythonpro.com.br/)
 - 🌱 I’m currently learning containers, machine learning and Mobile apps
 - 📝 I'm content creator at https://huogerac.hashnode.dev
+- 🎥 Once in a while, I upload a video here [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-circle&labelColor=FF0000&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCCT3NMj4ymnJ0n1UHXq2Q8g)
 - 👉 I’m interested in computer vision, machine learning and data spatial projects
 - 💬 Ask me about anything [here](https://github.com/huogerac/huogerac/discussions)
 
