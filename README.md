@@ -31,7 +31,7 @@ I'm a self-taught passionate ❤️ developer and a problem solver.
  ![Flask](https://img.shields.io/badge/-Flask-yellow?style=flat-circle&logo=Flask)
  ![API-REST](https://img.shields.io/badge/API-REST-ff1709?style=flat-circle&logo=django&logoColor=white&color=ff1709&labelColor=gray)
  ![celery](https://img.shields.io/badge/celery-b0d761?style=flat-circle&logo=celery)
- ![Kafka](https://img.shields.io/badge/celery-b0d761?style=flat-circle&logo=kafka)
+ ![Kafka](https://img.shields.io/badge/-kafka-red?style=flat-circle&logo=kafka)
   
 - 💻 Front-end： 
  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript)
@@ -63,7 +63,7 @@ I'm a self-taught passionate ❤️ developer and a problem solver.
 - 🎲 Database：
  ![Postgres](https://img.shields.io/badge/PostgreSQL-c5c5c5?style=flat-circle&logo=PostgreSQL)
  ![Redis](https://img.shields.io/badge/-Redis-green?style=flat-circle&logo=Redis)
- ![MongoDB](https://img.shields.io/badge/-Redis-green?style=flat-circle&logo=mongodb)
+ ![MongoDB](https://img.shields.io/badge/-mongo-green?style=flat-circle&logo=mongodb)
 
 - 🚀 Others:
   ![GA](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-circle&logo=github-actions&logoColor=white)
