@@ -6,11 +6,10 @@
 
 I'm a self-taught passionate ❤️ developer and a problem solver.
 
-- 🔭 I’m currently working on as consultant/freelancer and Instructor at [Dev.Pro](https://pythonpro.com.br/)
-- 🌱 I’m currently learning containers, machine learning and Mobile apps
+- 🐍 Currently I am coding at [Chatguru](https://chatguru.com.br/)
 - 📝 I'm content creator at https://huogerac.hashnode.dev
 - 🎥 Once in a while, I upload a video here [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-circle&labelColor=FF0000&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCCT3NMj4ymnJ0n1UHXq2Q8g)
-- 👉 I’m interested in computer vision, machine learning and data spatial projects
+- 👉 I’m interested in Data Science, machine learning and data spatial projects
 - 💬 Ask me about anything [here](https://github.com/huogerac/huogerac/discussions)
 
 ##
@@ -32,6 +31,7 @@ I'm a self-taught passionate ❤️ developer and a problem solver.
  ![Flask](https://img.shields.io/badge/-Flask-yellow?style=flat-circle&logo=Flask)
  ![API-REST](https://img.shields.io/badge/API-REST-ff1709?style=flat-circle&logo=django&logoColor=white&color=ff1709&labelColor=gray)
  ![celery](https://img.shields.io/badge/celery-b0d761?style=flat-circle&logo=celery)
+ ![Kafka](https://img.shields.io/badge/celery-b0d761?style=flat-circle&logo=kafka)
   
 - 💻 Front-end： 
  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript)
@@ -63,6 +63,7 @@ I'm a self-taught passionate ❤️ developer and a problem solver.
 - 🎲 Database：
  ![Postgres](https://img.shields.io/badge/PostgreSQL-c5c5c5?style=flat-circle&logo=PostgreSQL)
  ![Redis](https://img.shields.io/badge/-Redis-green?style=flat-circle&logo=Redis)
+ ![MongoDB](https://img.shields.io/badge/-Redis-green?style=flat-circle&logo=mongodb)
 
 - 🚀 Others:
   ![GA](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-circle&logo=github-actions&logoColor=white)
